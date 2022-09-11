@@ -7,4 +7,4 @@ router.use('/users', userRoutes)
 
 router.use('/thoughts', thoughtsRoutes);
 
-module.exports =router;
+module.exports = router;
